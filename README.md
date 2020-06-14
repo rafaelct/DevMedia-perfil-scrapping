@@ -6,7 +6,7 @@ Instalar:
 
 - Python3
 - pip install mechanize
-- pip install pip install beautifulsoup4
+- pip install pip install bs4
 
 Uso: 
 python devmedia.py <login> <senha>
